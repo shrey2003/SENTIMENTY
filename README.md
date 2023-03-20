@@ -3,3 +3,4 @@ We will make a Sentiment analyser model for the IMDB 50k movie review dataset ta
 omw-1.4
 wordnet
 wordcloud
+stopwords
