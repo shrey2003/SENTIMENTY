@@ -4,3 +4,7 @@ omw-1.4
 wordnet
 wordcloud
 stopwords
+transformers
+tensorflow
+tensorflow_hub
+torch
